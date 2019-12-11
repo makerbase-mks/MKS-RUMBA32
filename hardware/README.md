@@ -1,0 +1,7 @@
+**MKS RUMBA32 V1.0_002 folder include：**<br>
++ MKS RUMBA32 V1.0_002 SCH.pdf<br>
++ MKS RUMBA32 V1.0_002 SIZE.pdf<br>
++ MKS RUMBA32 V1.0_002 PIN.pdf<br>
++ MKS RUMBA32 V1.0_002 BOM.pdf<br>
++ MKS RUMBA32 V1.0_002 TOP.pdf<br>
++ MKS RUMBA32 V1.0_002 BOTTOM.pdf<br>
