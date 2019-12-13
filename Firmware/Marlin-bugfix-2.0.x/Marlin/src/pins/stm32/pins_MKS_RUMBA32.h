@@ -34,6 +34,8 @@
 //#define I2C_EEPROM
 #define E2END 0xFFF // 4KB
 
+#define ENABLE_SPI1
+
 //
 // Limit Switches
 //
@@ -192,6 +194,13 @@
      #define LCD_PINS_D5        PE13
      #define LCD_PINS_D6        PE14
      #define LCD_PINS_D7        PE15
+  #endif
+
+  // Alter timing for graphical display
+  #if HAS_GRAPHICAL_LCD
+    #define BOARD_ST7920_DELAY_1 DELAY_NS(96)
+    #define BOARD_ST7920_DELAY_2 DELAY_NS(48)
+    #define BOARD_ST7920_DELAY_3 DELAY_NS(600)
   #endif
 
 #endif

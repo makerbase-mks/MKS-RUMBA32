@@ -1,1 +1,1 @@
-# MKS RUMBA32 or RUMBA32 Support build and upload by ATOM
+# MKS RUMBA32 or RUMBA32 Board Support build and upload by platform(use ATOM)
