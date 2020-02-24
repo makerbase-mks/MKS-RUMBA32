@@ -28,9 +28,9 @@ MKS RUMBA32 build and upload marlin2.0 can use platformio, how to do it? Please 
  ![6_set_mks_rumba32](https://github.com/makerbase-mks/MKS-RUMBA32/blob/master/Picture/6_set_mks_rumba32.png "6_set_mks_rumba32")
  ![6_set_mks_rumba32_board](https://github.com/makerbase-mks/MKS-RUMBA32/blob/master/Picture/6_set_mks_rumba32_board.png "6_set_mks_rumba32_board")
  - Build and upload marlin2.0 firmware
- First, upload firmware, MKS RUMBA32 board need enter DFU mode. USB connect MKS RUMBA32, press and hold the "BOOT" button, then press the "RESET" light strip for more than 1S, release "RESET", and then release "BOOT".
+ - First, upload firmware, MKS RUMBA32 board need enter DFU mode. USB connect MKS RUMBA32, press and hold the "BOOT" button, then press the "RESET" light strip for more than 1S, release "RESET", and then release "BOOT".
  ![4_install_ok_2](https://github.com/makerbase-mks/MKS-RUMBA32/blob/master/Picture/4_install_ok_2.png "4_install_ok_2")
- Second, upload firmware
+ - Second, upload firmware
  [7_build_upload](https://github.com/makerbase-mks/MKS-RUMBA32/blob/master/Picture/7_build_upload.png "7_build_upload")
 
 ### MKS RUMBA32 after upload marlin2.0 firmware
