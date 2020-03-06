@@ -8,7 +8,7 @@
  - Support platformio build and upload firmware online...
 ## Related tutorials and Notice
 - User Manual.[click here](https://github.com/makerbase-mks/MKS-RUMBA32/wiki/MKS-RUMBA32-User-Manual)
-- How to buy the MKS RUMBA32.[click here](https://github.com/makerbase-mks/MKS-RUMBA32/blob/master/Picture/MKS_RUMBA32.png "MKS_RUMBA32")
+- How to buy the MKS RUMBA32.[click here](https://www.aliexpress.com/item/4000717327779.html?spm=2114.12010612.8148356.11.86d51141W6CDbB)
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware description
