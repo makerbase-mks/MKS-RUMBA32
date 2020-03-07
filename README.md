@@ -12,7 +12,9 @@
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware description
-- Support Marlin2.0 and Aus3D firmware.
+- MKS RUMBA32 path Marlin2.0(MKS has change and support platformio build and upload firmware).[click here](https://github.com/makerbase-mks/MKS-RUMBA32/tree/master/Firmware)
+- Marlin2.0 firmware.[click here](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)
+- Aus3D firmware.[click here](https://github.com/MKFirmware/MK4duo)
 
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
