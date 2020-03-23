@@ -36,6 +36,8 @@
 
 #define ENABLE_SPI1
 
+#define SERVO0_PIN         PB8   // BLTOUCH
+
 //
 // Limit Switches
 //
